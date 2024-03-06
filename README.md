@@ -18,7 +18,7 @@ Feel free to explore the folders and review the solutions. If you have any quest
 ## Contact
 
 - [BeeCrowd Profile](https://www.beecrowd.com.br/judge/en/profile/869241)
-- [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
+- [Linkedin](http://www.linkedin.com/in/ojoaovsoares)
 
 ## Contributions
 
